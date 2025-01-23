@@ -18,7 +18,7 @@ This is a simple teleprompter application built using Python and the Tkinter lib
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/
+    git clone https://github.com/yanik-v86/teleprompter.git
    cd teleprompter
    ```
 2. Install the required dependencies:
